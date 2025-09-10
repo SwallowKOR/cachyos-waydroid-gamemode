@@ -6,11 +6,12 @@ But now, there is only the Waydroid.
 
 Follow these steps.
 
-0. Dependencies
+0. **Dependencies**
+
 The following packages are required to run this script:
 
-- **cage**: Runs apps/games in exclusive fullscreen on Wayland  
-- **wlr-randr**: Used for custom display resolutions  
+- **cage**: Runs apps/games on GameMode
+- **wlr-randr**: Used for your display resolution.
 
 Install both packages at once:
 
