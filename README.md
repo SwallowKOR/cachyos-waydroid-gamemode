@@ -1,7 +1,7 @@
 # cachyos-utils
 Utility scripts for CachyOS
 
-But now, there is only the Waydroid.
+But now, there is only the Waydroid scripts.
 
 ## How to use Waydroid on GameMode 
 
