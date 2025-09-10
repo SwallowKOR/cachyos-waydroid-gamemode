@@ -18,4 +18,8 @@ wget https://github.com/SwallowKOR/cachyos-utils/raw/main/Waydroid-cage.sh
 
 Make the script executable:
 
+```bash
+chmod +x Waydroid-cage.sh
+
+
 ```
