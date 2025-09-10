@@ -1,11 +1,15 @@
 # cachyos-utils
 Utility scripts for CachyOS (boot, configs, tweaks)
 
-## Installation (Linux)
+## Running `Waydroid-cage.sh` (For General Users)
 
-Clone this repository to your Desktop:
+Follow these steps to run the Waydroid-cage script on CachyOS:
+
+---
+
+### 1. Download the Script
+Download the `Waydroid-cage.sh` file to your Desktop:
 
 ```bash
 cd ~/Desktop
-git clone https://github.com/SwallowKOR/cachyos-utils.git
-cd cachyos-utils
+wget https://github.com/SwallowKOR/cachyos-utils/raw/main/Waydroid-cage.sh
