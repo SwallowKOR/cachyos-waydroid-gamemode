@@ -1,7 +1,7 @@
 # cachyos-utils
 Utility scripts for CachyOS (boot, configs, tweaks)
 
-## Running `Waydroid-cage.sh` 
+## How to use Waydroid on GameMode 
 
 Follow these steps to run the Waydroid-cage script on CachyOS:
 
@@ -19,6 +19,10 @@ Follow these steps to run the Waydroid-cage script on CachyOS:
     ```bash
     chmod +x Waydroid-cage.sh
     ```
+
+3. Add this script to Steam.
+
+Done!
 
 > ⚠️ **Note:** This script is designed to work on **Waydroid** with **Cage**.  
 > Make sure Waydroid is installed and properly set up before running this script.
