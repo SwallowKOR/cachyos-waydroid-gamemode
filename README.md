@@ -1,9 +1,22 @@
 # cachyos-utils
-Utility scripts for CachyOS (boot, configs, tweaks)
+Utility scripts for CachyOS
+But now, there is only the Waydroid.
 
 ## How to use Waydroid on GameMode 
 
-Follow these steps to run the Waydroid-cage script on CachyOS:
+Follow these steps.
+
+0. Dependencies
+The following packages are required to run this script:
+
+- **cage**: Runs apps/games in exclusive fullscreen on Wayland  
+- **wlr-randr**: Used for custom display resolutions  
+
+Install both packages at once:
+
+```bash
+sudo pacman -S cage wlroots-utils
+```
 
 1. **Download the Script**  
     Download the `Waydroid-cage.sh` file to your Desktop:
