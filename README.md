@@ -5,21 +5,21 @@ Utility scripts for CachyOS (boot, configs, tweaks)
 
 Follow these steps to run the Waydroid-cage script on CachyOS:
 
----
+1. **Download the Script**  
+    Download the `Waydroid-cage.sh` file to your Desktop:
 
-### 1. Download the Script
-Download the `Waydroid-cage.sh` file to your Desktop:
+    ```bash
+    cd ~/Desktop
+    wget https://github.com/SwallowKOR/cachyos-utils/raw/main/Waydroid-cage.sh
+    ```
 
-```bash
-cd ~/Desktop
-wget https://github.com/SwallowKOR/cachyos-utils/raw/main/Waydroid-cage.sh
+2. **Give Execute Permission**  
+    Make the script executable:
 
-2. Give Execute Permission
+    ```bash
+    chmod +x Waydroid-cage.sh
+    ```
 
-Make the script executable:
+> ⚠️ **Note:** This script is designed to work on **Waydroid** with **Cage**.  
+> Make sure Waydroid is installed and properly set up before running this script.
 
-```bash
-chmod +x Waydroid-cage.sh
-
-
-```
