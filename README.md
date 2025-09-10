@@ -24,6 +24,6 @@ Follow these steps to run the Waydroid-cage script on CachyOS:
 
 Done!
 
-> ⚠️ **Note:** This script is designed to work on **Waydroid** with **Cage**.  
+> ⚠️ **Note:** This script is designed to work on **Cachy OS handheld GameMode** with **Cage**.  
 > Make sure Waydroid is installed and properly set up before running this script.
 
