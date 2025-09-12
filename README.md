@@ -17,7 +17,7 @@ The following packages are required to run this script:
 Install both packages at once:
 
 ```bash
-sudo pacman -S cage wlroots-utils
+sudo pacman -S cage wlr-randr
 ```
 
 1. **Download the Script**  
@@ -25,7 +25,7 @@ sudo pacman -S cage wlroots-utils
 
     ```bash
     cd ~/Desktop
-    wget https://github.com/SwallowKOR/cachyos-utils/raw/main/Waydroid-cage.sh
+    wget https://github.com/SwallowKOR/cachyos-utils/blob/main/waydroid-cage.sh
     ```
 
 2. **Give Execute Permission**  
