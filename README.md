@@ -25,7 +25,7 @@ sudo pacman -S cage wlr-randr
 
     ```bash
     cd ~/Desktop
-    wget https://github.com/SwallowKOR/cachyos-utils/blob/main/waydroid-cage.sh
+    wget https://github.com/SwallowKOR/cachyos-waydroid-gamemode/blob/main/waydroid-cage.sh
     ```
 
 2. **Give Execute Permission**  
