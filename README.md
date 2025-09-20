@@ -1,4 +1,4 @@
-# cachyos-utils
+# cachyos-waydroid-gamemode
 Utility scripts for CachyOS
 
 But now, there is only the Waydroid scripts.
@@ -25,7 +25,7 @@ sudo pacman -S cage wlr-randr
 
     ```bash
     cd ~/Desktop
-    wget https://github.com/SwallowKOR/cachyos-waydroid-gamemode/blob/main/waydroid-cage.sh
+    wget https://raw.githubusercontent.com/SwallowKOR/cachyos-waydroid-gamemode/refs/heads/main/waydroid-cage.sh
     ```
 
 2. **Give Execute Permission**  
